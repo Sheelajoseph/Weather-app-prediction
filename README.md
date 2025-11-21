@@ -14,14 +14,18 @@ This project demonstrates how to build a Python-based Weather App that can:
 4.Handle errors like invalid city names or API failures
 
 # Tech Stack
-# Component	Technology
+
+Component	Technology
+
 Language	- Python
+
 API  -	OpenWeatherMap / WeatherAPI
+
 Libraries	- requests, json, datetime, pandas (optional)
 
 # Project Structure
 
-data- weather app - python
+data- weatherapp.ipynb
 
 # How It Works
 
